@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Zyf63BsUwQT5c2W83nT99CeamFaRKJLtXUb3T+zrtJ7z+jExUH1xrpDUMa4FBzTFGdZ3tU3TncFIlj8twsyzmg==",
+  "dgSpecHash": "Jx1BQdwFtPAyBljzTjM/ZYUJTUf1tZGoDVXQRuGFJyBZIu7ZSp39Cgfgrb9A95W0/Wteh++ncUevbYEzF6arzg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\muilyas\\source\\repos\\QuizApplikasjon\\Application\\Application.csproj",
+  "projectFilePath": "C:\\Users\\muilyas\\source\\repos\\QuizApplikasjon\\QuizApplikasjon\\Application\\Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\muilyas\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
     "C:\\Users\\muilyas\\.nuget\\packages\\awssdk\\2.3.55.2\\awssdk.2.3.55.2.nupkg.sha512",

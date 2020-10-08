@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MLG+xgjJFrnESZ6J2PjzDkG0lP99VeWHWio4genKKIPaVn9Zi8B05YHg0NZEveLE1raeNDzxaah59hBDLHukww==",
+  "dgSpecHash": "YcMYvhT6hYky6QlAeYOcYy7ZiOktdYjBO2X7/MJ0+9xQ8+1cxJJlcxQNtriK+SvKcojCEegwpAapSMhF1iDGvw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\muilyas\\source\\repos\\QuizApplikasjon\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\muilyas\\source\\repos\\QuizApplikasjon\\QuizApplikasjon\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\muilyas\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
     "C:\\Users\\muilyas\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.0.1\\automapper.extensions.microsoft.dependencyinjection.8.0.1.nupkg.sha512",

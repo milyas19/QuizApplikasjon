@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\muilyas\\source\\repos\\QuizApplikasjon\\Entities\\Entities.csproj": {}
+    "C:\\Users\\muilyas\\source\\repos\\QuizApplikasjon\\QuizApplikasjon\\Entities\\Entities.csproj": {}
   },
   "projects": {
-    "C:\\Users\\muilyas\\source\\repos\\QuizApplikasjon\\Entities\\Entities.csproj": {
+    "C:\\Users\\muilyas\\source\\repos\\QuizApplikasjon\\QuizApplikasjon\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\muilyas\\source\\repos\\QuizApplikasjon\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\muilyas\\source\\repos\\QuizApplikasjon\\QuizApplikasjon\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\muilyas\\source\\repos\\QuizApplikasjon\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\muilyas\\source\\repos\\QuizApplikasjon\\QuizApplikasjon\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\muilyas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\muilyas\\source\\repos\\QuizApplikasjon\\Entities\\obj\\",
+        "outputPath": "C:\\Users\\muilyas\\source\\repos\\QuizApplikasjon\\QuizApplikasjon\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\muilyas\\AppData\\Roaming\\NuGet\\NuGet.Config",
